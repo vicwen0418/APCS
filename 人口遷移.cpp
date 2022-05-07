@@ -1,8 +1,8 @@
 /*
-
-�C�ѨC�ӫ����|�V�C�ӥ��۾F�������E�� �H/k�ӤH
-�Ĥ@��A��X�b m �Ѥ���A�H�Ƴ̤֪��������H�ơC
-�ĤG��A��X�b m �Ѥ���A�H�Ƴ̦h���������H�ơC
+https://zerojudge.tw/ShowProblem?problemid=f313
+每天每個城市會向每個它相鄰的城市遷移 人/k個人
+第一行，輸出在 m 天之後，人數最少的城市的人數。
+第二行，輸出在 m 天之後，人數最多的城市的人數。
 */
 #include <iostream>
 #include <algorithm>
